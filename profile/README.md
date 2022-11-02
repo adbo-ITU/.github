@@ -4,6 +4,9 @@ This organization contains repositories owned by myself (adbo) during my studies
 ## 🗃️ More repositories
 Naturally, I have not created the repository for each and every group I've been in, so the repository list is incomplete. The following is a (nonexhaustive) list of repositories owned by my groups but not by my Github profile. Some repositories are locked behind ITU's enterprise Github - I will mark those with a 🔐.
 
+#### Security 1 (2022, autumn)
+- Mini project - Defense: https://github.com/Tietgen-ITU/SEC-Pen-Test-Code
+
 #### Programs as Data (2022, autumn)
 - Exercises and assignments: https://github.com/andreaswachs/ITU-PRDAT22
 
